@@ -33,7 +33,10 @@ http://localhost:8080/s2g-zuul-mobile/admin/filterLoader.jsp
 
 加载并激活：
 
-* 测试用路由过滤器[TestRoute.groovy](https://github.com/spring2go/s2g-zuul/blob/master/s2g-zuul-mobile/src/scripts/pre/TestRoute.groovy)
+* 测试用选路过滤器[TestRoute.groovy](https://github.com/spring2go/s2g-zuul/blob/master/s2g-zuul-mobile/src/scripts/pre/TestRoute.groovy)
+* 路由执行过滤器[ExecuteRoute.groovy](https://github.com/spring2go/s2g-zuul/blob/master/s2g-zuul-mobile/src/scripts/route/ExecuteRoute.groovy)
+
+#### 5.校验
 
 通过Postman校验
 ```
