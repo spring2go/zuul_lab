@@ -13,6 +13,10 @@
 5. Eclipse STS 3.9.5下载1[网盘](https://pan.baidu.com/s/1xqy4G_r9N24WODBBuGlIog) 下载2[国外](https://spring.io/tools)
 6. [Tomcat 8.5](https://tomcat.apache.org/)
 
+**建议**：[s2g-zuul](https://github.com/spring2go/s2g-zuul)源码建议使用较新版本的[Eclipse IDE for Java EE Developer](https://www.eclipse.org/downloads/packages/release/2019-03/r/eclipse-ide-enterprise-java-developers
+)进行导入，它可以自动感知Servlet Web项目，在Eclipse+Tomcat里头直接调试源码，方便排查问题。
+
+
 # 实验目录
 1. [lab01](lab01)~前置过滤器实验
 2. [lab02](lab02)~路由过滤器实验
