@@ -14,7 +14,7 @@
 6. [Tomcat 8.5](https://tomcat.apache.org/)
 
 **建议**：[s2g-zuul](https://github.com/spring2go/s2g-zuul)源码建议使用较新版本的[Eclipse IDE for Java EE Developer](https://www.eclipse.org/downloads/packages/release/2019-03/r/eclipse-ide-enterprise-java-developers
-)进行导入，它可以自动感知Servlet Web项目，在Eclipse+Tomcat里头直接调试源码，方便排查问题。
+)进行导入，它可以自动感知Servlet Web项目，可在Eclipse+Tomcat里头直接调试源码，方便排查问题。
 
 
 # 实验目录
